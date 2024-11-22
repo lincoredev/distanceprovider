@@ -1,0 +1,74 @@
+[
+  {
+    "name": "User",
+    "locations": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "image": "1"
+  },
+  {
+    "name": "John",
+    "locations": {
+      "latitude": 54.7,
+      "longitude": 32.5
+    },
+    "image": "2"
+  },
+  {
+    "name": "Harry",
+    "locations": {
+      "latitude": 66.9,
+      "longitude": 31.5
+    },
+    "image": "3"
+  },
+  {
+    "name": "Thomas",
+    "locations": {
+      "latitude": 77.7,
+      "longitude": 38.5
+    },
+    "image": "4"
+  },
+  {
+    "name": "Oscar",
+    "locations": {
+      "latitude": 66.9,
+      "longitude": 31.5
+    },
+    "image": "5"
+  },
+  {
+    "name": "Daniel",
+    "locations": {
+      "latitude": 56.12,
+      "longitude": 37.15
+    },
+    "image": "6"
+  },
+  {
+    "name": "Emily",
+    "locations": {
+      "latitude": 60.10,
+      "longitude": 30.16
+    },
+    "image": "7"
+  },
+  {
+    "name": "William",
+    "locations": {
+      "latitude": 83.17,
+      "longitude": 55.11
+    },
+    "image": "8"
+  },
+  {
+    "name": "Isabella",
+    "locations": {
+      "latitude": 44.14,
+      "longitude": 132.18
+    },
+    "image": "9"
+  }
+]
